@@ -2,10 +2,12 @@ import React from 'react';
 
 import "../../css/Header/Header.css";
 
+import { wordes } from '../../words';
+
 function Header(){
     return (
         <header>
-            shopping cart
+            {wordes.headerTitle}
         </header>
     )
 }
