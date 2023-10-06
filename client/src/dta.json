@@ -1,0 +1,34 @@
+[
+    {
+        "id":"id1",
+        "title":"headphones",
+        "imageUrl":"/images/1.jpeg",
+        "desc":"This is headphones",
+        "size":["S","M"],
+        "price":30
+    },
+    {
+        "id":"id2",
+        "title":"camra",
+        "imageUrl":"/images/2.jpeg",
+        "desc":"This is camra",
+        "size":["S","M"],
+        "price":60
+    },
+    {
+        "id":"id3",
+        "title":"shoose",
+        "imageUrl":"/images/3.jpeg",
+        "desc":"This is shoose",
+        "size":["S","M"],
+        "price":50
+    },
+    {
+        "id":"id4",
+        "title":"keyboard",
+        "imageUrl":"/images/4.jpg",
+        "desc":"This is keyboard",
+        "size":["S","M"],
+        "price":70
+    }
+]
